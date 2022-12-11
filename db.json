@@ -19,6 +19,26 @@
       "date": "July 4, 2021",
       "time":"09:00",
       "imagePath":"rockwerchter.png"
+    },
+    {
+      "id":3,
+      "category":"concert",
+      "title": "Pukkelpop",
+      "description": "Festival Rock",
+      "location": "Hasselt",
+      "date": "July 22 2021",
+      "time": "09:00",
+      "image": "pukkelpop.png"
+    },
+    {
+      "id":4,
+      "category":"concert",
+      "title": "Graspop",
+      "description": "Festival Rock",
+      "location": "Dessel",
+      "date": "July 04 2021",
+      "time": "09:00",
+      "image": "graspop.png"
     }
   ]
 }
