@@ -7,7 +7,7 @@
       "description": "Festival op De Schorre",
       "location": "Boom",
       "date": "August 8, 2021",
-      "time":"09:00",
+      "time": "09:00",
       "imagePath":"tomorrowland.png"
     },
     {
@@ -17,18 +17,18 @@
       "description": "Festival Rock",
       "location": "Werchter",
       "date": "July 4, 2021",
-      "time":"09:00",
+      "time": "09:00",
       "imagePath":"rockwerchter.png"
     },
     {
-      "id":3,
-      "category":"concert",
+      "id": 3,
+      "category": "concert",
       "title": "Pukkelpop",
       "description": "Festival Rock",
       "location": "Hasselt",
       "date": "July 22 2021",
       "time": "09:00",
-      "image": "pukkelpop.png"
+      "imagePath": "pukkelpop.png"
     },
     {
       "id":4,
@@ -38,7 +38,7 @@
       "location": "Dessel",
       "date": "July 04 2021",
       "time": "09:00",
-      "image": "graspop.png"
+      "imagePath": "graspop.png"
     }
   ]
 }
