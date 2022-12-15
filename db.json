@@ -8,7 +8,8 @@
       "location": "Boom",
       "date": "August 8, 2021",
       "time": "09:00",
-      "parking": "Boom parking",
+      "parking": "Parking Boom",
+      "food": "Pastabar",
       "imagePath":"tomorrowland.png"
     },
     {
@@ -19,7 +20,8 @@
       "location": "Werchter",
       "date": "July 4, 2021",
       "time": "09:00",
-      "parking": "Werchter parking",
+      "parking": "Parking Werchter",
+      "food": "Veggibar",
       "imagePath":"rockwerchter.png"
     },
     {
@@ -30,7 +32,8 @@
       "location": "Hasselt",
       "date": "July 22 2021",
       "time": "09:00",
-      "parking": "Pukkelpop parking",
+      "parking": "Parking Puppelpop",
+      "food": "Burgerbar",
       "imagePath": "pukkelpop.png"
     },
     {
@@ -41,7 +44,8 @@
       "location": "Dessel",
       "date": "July 04 2021",
       "time": "09:00",
-      "parking": "Graspop parking",
+      "parking": "Parking Graspop",
+      "food": "Frietjesbar",
       "imagePath": "graspop.png"
     }
   ]
