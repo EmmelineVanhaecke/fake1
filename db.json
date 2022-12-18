@@ -10,7 +10,8 @@
       "time": "09:00",
       "parking": "Parking Boom",
       "food": "Pastabar",
-      "imagePath":"tomorrowland.png"
+      "imagePath":"tomorrowland.png",
+      "invalid": true
     },
     {
       "id": 2,
@@ -22,7 +23,8 @@
       "time": "09:00",
       "parking": "Parking Werchter",
       "food": "Veggibar",
-      "imagePath":"rockwerchter.png"
+      "imagePath":"rockwerchter.png",
+      "invalid": false
     },
     {
       "id": 3,
@@ -34,7 +36,8 @@
       "time": "09:00",
       "parking": "Parking Puppelpop",
       "food": "Burgerbar",
-      "imagePath": "pukkelpop.png"
+      "imagePath": "pukkelpop.png",
+      "invalid": true
     },
     {
       "id":4,
@@ -46,7 +49,8 @@
       "time": "09:00",
       "parking": "Parking Graspop",
       "food": "Frietjesbar",
-      "imagePath": "graspop.png"
+      "imagePath": "graspop.png",
+      "invalid": true
     }
   ]
 }
