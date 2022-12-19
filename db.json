@@ -51,6 +51,30 @@
       "food": "Frietjesbar",
       "imagePath": "graspop.png",
       "invalid": true
+    },
+    {
+      "id":5,
+      "category":"concert",
+      "title": "Land of love",
+      "description": "Festival Techno",
+      "location": "Torhout",
+      "date": "July 04 2021",
+      "time": "09:00",
+      "parking": "Parking Torhout",
+      "imagePath": "landoflove.png",
+      "invalid": false
+    },
+    {
+      "id":6,
+      "category":"concert",
+      "title": "Suikerrock",
+      "description": "Festival Techno",
+      "location": "Tienen",
+      "date": "July 04 2021",
+      "time": "09:00",
+      "parking": "Parking Torhout",
+      "imagePath": "suikerrock.png",
+      "invalid": true
     }
   ]
 }
